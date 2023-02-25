@@ -1,6 +1,6 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
-## [/Project_Manager_2.0. _2022.06-2022.08._](https://ewwgene.github.io/Project_Manager_2.0)
+### [Project_Manager_2.0. — _DESIGN SERIES._](https://ewwgene.github.io/Project_Manager_2.0)
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/Project_Manager_2.0/100.jpg)
 <a id="111"></a> ![111.jpg](https://ewwgene.github.io/Project_Manager_2.0/111.jpg)
 <a id="112"></a> ![112.jpg](https://ewwgene.github.io/Project_Manager_2.0/112.jpg)
