@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### Project_Manager_2.0. — _DESIGN SERIES._
+# [ewwgene.github.io /](https://ewwgene.github.io/) Project_Manager_2.0
+
 [![Project_Manager_2.0](/100.jpg)](https://ewwgene.github.io/Project_Manager_2.0/Carousel)<a id="111" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#111"><img src="https://ewwgene.github.io/Project_Manager_2.0/111.jpg" height="66"></a> <a id="112" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#112"><img src="https://ewwgene.github.io/Project_Manager_2.0/112.jpg" height="66"></a> <a id="113" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#113"><img src="https://ewwgene.github.io/Project_Manager_2.0/113.jpg" height="66"></a> <a id="115" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#115"><img src="https://ewwgene.github.io/Project_Manager_2.0/115.jpg" height="66"></a> <a id="117" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#117"><img src="https://ewwgene.github.io/Project_Manager_2.0/117.jpg" height="66"></a> <a id="118" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#118"><img src="https://ewwgene.github.io/Project_Manager_2.0/118.jpg" height="66"></a> <a id="119" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#119"><img src="https://ewwgene.github.io/Project_Manager_2.0/119.jpg" height="66"></a> <a id="121" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#121"><img src="https://ewwgene.github.io/Project_Manager_2.0/121.jpg" height="66"></a> <a id="123" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#123"><img src="https://ewwgene.github.io/Project_Manager_2.0/123.jpg" height="66"></a> <a id="125" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#125"><img src="https://ewwgene.github.io/Project_Manager_2.0/125.jpg" height="66"></a> <a id="131" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#131"><img src="https://ewwgene.github.io/Project_Manager_2.0/131.jpg" height="66"></a> <a id="133" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#133"><img src="https://ewwgene.github.io/Project_Manager_2.0/133.jpg" height="66"></a> <a id="text">&#160;</a>
 
 [_`SOLID_PINE_WOOD`_](https://ewwgene.github.io) [_`PLASTER`_](https://ewwgene.github.io) 
@@ -17,3 +17,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <a id="301" href="https://ewwgene.github.io/Project_Manager_2.0/Carousel/#301"><img src="https://ewwgene.github.io/Project_Manager_2.0/301.jpg" height="66"></a> 
 
 [_`DESIGN SERIES`_](https://ewwgene.github.io) [_`SCULPTURE`_](https://ewwgene.github.io) 
+
+### [ABOUT/](https://ewwgene.github.io/) 
