@@ -1,9 +1,9 @@
 {
     "date": ["2022.06", "2022.08"],
-    "medium": ["PROGRAMMING", "GUI"],
-    "material": ["SOLID_PINE_WOOD", "PLASTER"],
-    "hardware": ["FURNITURE", "INTERIOR", "ARCHITECTURE"],
-    "software": ["AUTOCAD", "LISP-AUTOLISP-VISUALLISP", "PYTHON", "PYCHARM", "ACROBAT-PDF"],
-    "overview": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-    "making": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "medium": ["PROGRAMMING", "SOFTWARE", "GUI"],
+    "material": "",
+    "hardware": "",
+    "software": ["PYTHON", "PYSIDE", "QT_DESIGNER"],
+    "overview": "Набор приложений для мебельной фабрики. Менеджер дизайн-проектов - приложение для ведения каталога с возможностями контроля версий, сортировки, ведение аннотаций и функциями для удаленной работы: Экспорт/импорт последних версий проектов _`AUTOCAD`_ и связанных с ними _.pdf_ файлов на корпоративный сервер, архивация устаревших версий; Быстрый доступ к каталогам.\n + Приложение - калькулятор расположения вывода для розеток или др.;\n + Приложение - конвертер фотографий.",
+    "making": "Приложения написаны на _`PYTHON`_ с использованием библиотеки _`PYSIDE`_ для создания интерфейса."
 }
