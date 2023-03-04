@@ -6,16 +6,16 @@
 
 
 Набор приложений для мебельной фабрики:
-  + Менеджер дизайн-проектов для ведения каталога с функциями контролем версий, сортировки, аннотаций и удаленной работы: Экспорт/Импорт версий проектов _`AUTOCAD`_ и связанных _*.pdf_ файлов на сервер, архивация устаревших версий;
- + Калькулятор расположения розеток и высоты потолков;
- + Конвертер изображений.
+  + Менеджер дизайн-проектов для ведения каталога с функциями контролем версий, сортировки, аннотаций и удаленной работы: Экспорт/Импорт версий проектов _`AUTOCAD`_ и связанных _*.pdf_ файлов на сервер, архивация устаревших версий. [**projectManager_2_0**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/projectManager_2_0);
+ + Калькулятор расположения розеток и высоты потолков [**Quick_2_0**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/Quick_2_0);
+ + Конвертер изображений [**imageConverter_1_5**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/imageConverter_1_5).
 
 ### Making — _2022.06-2022.08._
 <a id="202m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#202m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/202.jpg" height="66"></a> <a id="203m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#203m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/203.jpg" height="66"></a> <a id="205m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#205m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/205.jpg" height="66"></a> <a id="207m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#207m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/207.jpg" height="66"></a> <a id="209m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#209m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/209.jpg" height="66"></a> <a id="211m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#211m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/211.jpg" height="66"></a> <a id="213m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#213m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/213.jpg" height="66"></a> <a id="215m" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#215m"><img src="https://ewwgene.github.io/Project_Manager_2_0/Making/215.jpg" height="66"></a>  
 
 _`PYTHON`_ _`PYSIDE`_ _`QT_DESIGNER`_ _`JSON`_  
 
-Использование библиотеки _`PYSIDE`_ для создания интерфейса. Каталог с проектом должен включать файл описания _*.project_ (сознается при создании нового проекта). Файл настроек и макет _`JSON`_ сохраняются в папку пользователя.<br> <br> [**projectManager_2_0**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/projectManager_2_0)<br> [**Quick_2_0**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/Quick_2_0)<br> [**imageConverter_1_5**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/imageConverter_1_5)<br>
+Использование библиотеки _`PYSIDE`_ для создания интерфейса. Каталог с проектом должен включать файл описания _*.project_ (сознается при создании нового проекта). Файл настроек и макет _`JSON`_ сохраняются в папку пользователя.
 
 <a id="301" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#301"><img src="https://ewwgene.github.io/Project_Manager_2_0/301.jpg" height="66"></a> 
 
