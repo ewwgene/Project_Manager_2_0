@@ -15,7 +15,7 @@
 
 _`PYTHON`_ _`PYSIDE`_ _`QT_DESIGNER`_ _`JSON`_  
 
-Использование библиотеки _`PYSIDE`_ для создания интерфейса. Каталог с проектом должен включать файл описания _*.project_ (сознается при создании нового проекта). Файл настроек и макет _`JSON`_ сохраняются в папку пользователя.
+Использование библиотеки _`PYSIDE`_ для создания интерфейса. Каталог с проектом должен включать файл описания _*.project_ (сознается при создании нового проекта). Файл настроек и макет _`JSON`_ сохраняются в папку пользователя.<br> <br> [**projectManager_2_0**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/projectManager_2_0)<br> [**Quick_2_0**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/Quick_2_0)<br> [**imageConverter_1_5**](https://github.com/ewwgene/Project_Manager_2_0/tree/main/imageConverter_1_5)<br>
 
 <a id="301" href="https://ewwgene.github.io/Project_Manager_2_0/Carousel/#301"><img src="https://ewwgene.github.io/Project_Manager_2_0/301.jpg" height="66"></a> 
 
