@@ -14,6 +14,7 @@
 <a id="125"></a> ![125.jpg](https://ewwgene.github.io/Project_Manager_2_0/125.jpg)
 <a id="131"></a> ![131.jpg](https://ewwgene.github.io/Project_Manager_2_0/131.jpg)
 <a id="133"></a> ![133.jpg](https://ewwgene.github.io/Project_Manager_2_0/133.jpg)
+<a id="201m"></a> ![201.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/201.jpg)
 <a id="202m"></a> ![202.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/202.jpg)
 <a id="203m"></a> ![203.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/203.jpg)
 <a id="205m"></a> ![205.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/205.jpg)
@@ -21,6 +22,5 @@
 <a id="209m"></a> ![209.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/209.jpg)
 <a id="211m"></a> ![211.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/211.jpg)
 <a id="213m"></a> ![213.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/213.jpg)
-<a id="215m"></a> ![215.jpg](https://ewwgene.github.io/Project_Manager_2_0/Making/215.jpg)
 <a id="301"></a> ![301.jpg](https://ewwgene.github.io/Project_Manager_2_0/301.jpg)
 
